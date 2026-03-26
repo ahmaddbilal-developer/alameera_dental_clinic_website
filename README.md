@@ -60,7 +60,3 @@ This project leverages modern frontend architecture to ensure speed, SEO optimiz
 - `npm run start` - Starts the production server for final performance verification locally.
 - `npm run lint` - Lints `.ts` and `.tsx` files with ESLint to catch syntax or type discrepancies before commits.
 
-## 🌐 Clinic Information
-- **Location**: SILSILA TRADING BUILDING, 501 Hamdan Bin Mohammed St, behind DALMA PLAZA, Al Danah, Zone 1, Abu Dhabi, UAE
-- **Phone**: +971 2 644 9566
-- **Services Provided**: Prosthodontics, General & Cosmetic Dentistry, Orthodontics, Dental Implants, Root Canals, Pediatric Dentistry.
